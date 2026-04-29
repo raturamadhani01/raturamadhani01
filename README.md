@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![banner](banner.svg)
+![banner](assets/banner.svg)
 
 <br/>
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raturamadhani01)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ratu-ramadhani-2b30713ab)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
 <br/>
@@ -202,7 +202,7 @@ EJS                      1 repo              ███░░░░░░░░�
 
 <div align="center">
 
-![banner](banner.svg)
+![banner](assets/banner.svg)
 
 <br/>
 
