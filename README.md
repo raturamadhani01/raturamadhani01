@@ -2,7 +2,7 @@
 
 ![banner](assets/banner.svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FABD2F&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ratu+%F0%9F%91%8B;Full-Stack+Developer;JavaScript+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FABD2F&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ratu+%F0%9F%91%8B;Full-Stack+Developer;JavaScript+Enthusiast;Always+learning+new+things" alt="Typing SVG" /> -->
 
 <br/>
 
