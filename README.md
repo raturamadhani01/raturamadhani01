@@ -182,7 +182,7 @@ EJS                      1 repo              ███░░░░░░░░�
 
 <br/>
 
-<h4 align="center">— 🎮 &nbsp; Entertainment —</h4>
+<!-- <h4 align="center">— 🎮 &nbsp; Entertainment —</h4>
 
 <div align="center">
 
@@ -190,7 +190,7 @@ EJS                      1 repo              ███░░░░░░░░�
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](#)
 [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](#)
 
-</div>
+</div> -->
 
 ---
 
